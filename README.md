@@ -104,7 +104,7 @@ So where does that leave us? Accounting for deficiencies in the status quo does 
 ## License ##
 The JSend specification (this page) is covered under a [modified BSD License](LICENSE.md)
 
-==Delhi changes
+==Delhi changes Undo
 
 
 
