@@ -1,0 +1,11 @@
+Responses:
+
+{
+status:fail,
+data: {},
+message: "",
+error:{
+errorCode: 405,
+message: ""
+}
+}
