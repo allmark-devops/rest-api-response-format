@@ -1,0 +1,13 @@
+18/06/2021 - Discusses with Jay, Kamal and Delhi
+
+1. URL always should be small letters. User hyphen to separate 
+2. Should use provided API request methods as per standards. (GET, POST, PUT, DELETE)
+3. Controller name can be singular or pulural as per requirements.
+
+Example URLS:
+Get list [GET]: https://api.domain.com/api/employees
+Get Single [GET]: https://api.domain.com/api/employees/1
+Create new [POST]: https://api.domain.com/api/employees
+Update [PUT]: https://api.domain.com/api/employees/1
+Delete [DELETE] :https://api.domain.com/api/employees/1
+Additional methods : https://api.domain.com/api/employees/update-image/1
