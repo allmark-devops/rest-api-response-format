@@ -1,9 +1,10 @@
 {
-status:fail,
-data: {},
-message: "",
-error:{
-code: 405,
-message: ""
-}
+"status":"success",
+"data": {},
+"message": "Something",
+"error":{
+     "code": 405,
+      "message": ""
+      },
+  "log":""
 }
