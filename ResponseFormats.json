@@ -1,11 +1,9 @@
-Responses:
-
 {
 status:fail,
 data: {},
 message: "",
 error:{
-errorCode: 405,
+code: 405,
 message: ""
 }
 }
