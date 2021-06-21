@@ -74,7 +74,7 @@ Use GET requests to retrieve resource representation/information only
     "message" : "Unable to communicate with database"
 }
 ```
-###POST ###
+### POST ###
 Always use POST for CREATE operations.
 
 #### api/employees ####
